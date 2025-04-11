@@ -8,3 +8,6 @@ Then
 ./mvnw spring-boot:run
 Server runs at:
 http://localhost:8080
+
+Demo Video:
+https://youtu.be/YktMPQ50b_Q
